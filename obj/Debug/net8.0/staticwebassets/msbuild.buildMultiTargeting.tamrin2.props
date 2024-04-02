@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tamrin2.props" />
+</Project>

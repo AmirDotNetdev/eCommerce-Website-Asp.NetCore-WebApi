@@ -1,0 +1,6 @@
+@tamrin2_HostAddress = http://localhost:5201
+
+GET {{tamrin2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
